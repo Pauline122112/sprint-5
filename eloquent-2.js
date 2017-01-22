@@ -1,7 +1,8 @@
+//Triangle
 var number = "#";
 for(var number = "#"; number < "#######"; number += "#")
 console.log(number)
-
+// FizzBuzz
 for(var i=1; i<100; i++){
   if(i%3===0)
   console.log("Fizz");
